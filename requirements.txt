@@ -1,0 +1,9 @@
+chromedriver==2.24.1
+py==1.5.2
+pync==1.6.1
+pytest==3.2.5
+pytest-html==1.16.0
+pytest-metadata==1.5.0
+python-dateutil==2.6.1
+selenium==3.7.0
+six==1.11.0
