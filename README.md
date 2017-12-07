@@ -1,3 +1,3 @@
 # twitter-test
 
-py.test --html=report.html
+py.test -s -v --html=report.html
